@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.dfm,S:\K1\503\135\Александр\Кривые\Конхоида\Unit2.dfm=d:\RAD Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.h,S:\K1\503\135\Александр\Кривые\Конхоида\Unit2.h=d:\RAD Studio\Projects\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,S:\K1\503\135\Александр\Кривые\Конхоида\Project2.cbproj=d:\RAD Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cpp,S:\K1\503\135\Александр\Кривые\Конхоида\Unit2.cpp=d:\RAD Studio\Projects\Unit2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
